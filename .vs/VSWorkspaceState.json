@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "\\PokemonReviewApp",
+    "\\PokemonReviewApp\\bin",
+    "\\PokemonReviewApp\\Models",
+    "\\PokemonReviewApp\\obj",
+    "\\PokemonReviewApp\\obj\\Debug",
+    "\\PokemonReviewApp\\obj\\Debug\\net8.0",
+    "\\PokemonReviewApp\\obj\\Release",
+    "\\PokemonReviewApp\\obj\\Release\\net8.0"
+  ],
+  "PreviewInSolutionExplorer": false
+}
